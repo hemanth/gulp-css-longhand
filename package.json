@@ -25,11 +25,11 @@
     "longhand"
   ],
   "dependencies": {
-    "css-longhand": "^1.1.1",
-    "gulp-util": "^3.0.4",
-    "through2": "^0.6.5"
+    "css-longhand": "1.1.1",
+    "gulp-util": "3.0.6",
+    "through2": "0.6.5"
   },
   "devDependencies": {
-    "mocha": "*"
+    "mocha": "2.3.3"
   }
 }
