@@ -1,7 +1,7 @@
 {
   "name": "gulp-css-longhand",
   "version": "1.0.0",
-  "description": "Gulp plguin to expand CSS",
+  "description": "Gulp plugin to expand CSS",
   "license": "MIT",
   "repository": "hemanth/gulp-css-longhand",
   "author": {
